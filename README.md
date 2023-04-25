@@ -1,5 +1,4 @@
-<!-- ### Hi there 👋 -->
-# Charless Wesley Arya
+### Hi there 👋 I'm Charless Wesley Arya
 **`FULL STACK DEVELOPER`**
 
 I'm Full Stack Web Developer using MERN(MongoDB, Express, React, Node). I have developed some applications using MERN, from starting with HTML projects to fully complex MERN stack applications. I have also uploaded projects to the cloud in AWS, and hosted projects in FIRE BASE.
