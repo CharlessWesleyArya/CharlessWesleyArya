@@ -12,6 +12,14 @@ I'm Full Stack Web Developer using MERN(MongoDB, Express, React, Node). I have d
 
 ### Languages and Tools
 
+
+
+<img align="left" alt='NextJs' width='45px' style='padding-right:15px'
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+
+<img align="left" alt='typeScript' width='45px' style='padding-right:15px'
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+
 <img align="left" alt='React' width='45px' style='padding-right:15px' 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 
