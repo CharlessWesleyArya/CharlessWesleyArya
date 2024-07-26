@@ -32,7 +32,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-w
 <img align="left" alt='Javascript' width='45px' style='padding-right:15px'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 <img align="left" alt='MongoDB' width='45px' style='padding-right:15px'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
- 
+
+<!--
+
 <img align="left" alt='MySql' width='45px' style='padding-right:15px'  
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
             
@@ -66,7 +68,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wor
 <img align="left" alt='Firebase' width='45px' style='padding-right:15px'     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
 
 
-<!--
+
 **CharlessWesleyArya/CharlessWesleyArya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
